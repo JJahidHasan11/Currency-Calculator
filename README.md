@@ -1,4 +1,4 @@
-# Currency Converter
+# Currency Calculator
 
 A javascript app providing real-time exchange rate information to help users convert currencies from one value to another.
 
